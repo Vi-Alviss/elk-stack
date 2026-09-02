@@ -23,7 +23,7 @@ The project researches and implements a centralized network security monitoring 
 
 ## System Architecture
 
-![System Architecture](./architecture.png)
+![System Architecture](./images/architecture.png)
 
 **Data flow:** `Elastic Agent/Fleet → Elasticsearch Ingest Pipeline → Elasticsearch → Kibana`
 
