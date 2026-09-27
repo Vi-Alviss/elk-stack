@@ -25,8 +25,6 @@ The full academic report is kept in [`/docs`](./docs), split by chapter and form
 | [5. Trien khai va danh gia ket qua](./docs/05-trien-khai-va-danh-gia-ket-qua.md) | Experiments, data, results evaluation |
 | [6. Ket luan](./docs/06-ket-luan.md) | Results achieved, future work |
 
-> Chapters 4 and 5 (the bulk of the technical content) are still being added.
-
 ## Project Objectives
 
 - Build a centralized log collection pipeline using Elastic Agent across endpoints.
