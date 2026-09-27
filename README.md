@@ -74,7 +74,7 @@ Full configuration details for every scenario are in Chapter 4 (coming next).
 
 ## Results
 
-All experimental scenarios - including ICMP blocking, port scanning, SQL Injection, path traversal, EICAR detection, and ML-based anomaly detection - were successfully implemented and verified on the deployed system. Incident response was also demonstrated through Elastic Defend's host-isolation feature. Full data and screenshots are in Chapter 5 (coming next).
+All experimental scenarios - including ICMP blocking, port scanning, SQL Injection, path traversal, EICAR detection, and ML-based anomaly detection - were successfully implemented and verified on the deployed system. Incident response was also demonstrated through Elastic Defend's host-isolation feature.
 
 ## Technologies Used
 
