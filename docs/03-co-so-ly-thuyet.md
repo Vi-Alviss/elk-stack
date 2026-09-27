@@ -92,7 +92,7 @@ Fleet là một ứng dụng trên nền tảng web được tích hợp trực 
 
 ## 3.3. Các mô hình triển khai
 
-![Hình 3.1. Luồng dữ liệu của Elastic stack (nguồn: Elastic Pipelines)](./assets/hinh-3.1-elastic-pipeline.png)
+![Hình 3.1. Luồng dữ liệu của Elastic stack (nguồn: Elastic Pipelines)](/images/i31.png)
 
 Hình 3.1. Luồng dữ liệu của Elastic stack. nguồn: Elastic Pipelines
 
