@@ -64,11 +64,11 @@ Full configuration details for every scenario are in Chapter 4 (coming next).
 
 | Scenario | Video |
 |---|---|
-| Log collection, enrichment, search | [`videos/Collect-Enrich-Search.mkv`](./videos/Collect-Enrich-Search.mkv) |
-| Monitoring dashboard | [`videos/CustomDashboard.mp4`](./videos/CustomDashboard.mp4) |
-| Detection & response (EDR) | [`videos/EDR.mp4`](./videos/EDR.mp4) |
-| Machine Learning | [`videos/MachineLearning.mp4`](./videos/MachineLearning.mp4) |
-| Extra | [`videos/Extra.mp4`](./videos/Extra.mp4) |
+| Log collection, enrichment, search | [Watch on YouTube](https://youtu.be/Crdebg0otOE) |
+| Monitoring dashboard | [Watch on YouTube](https://youtu.be/DxploNANnNQ) |
+| Detection & response (EDR) | [Watch on YouTube](https://youtu.be/vQBk5mttAwE) |
+| Machine Learning | [Watch on YouTube](https://youtu.be/VoBX3vrbpxc) |
+| Extra | [Watch on YouTube](https://youtu.be/3St28_5KjbE) |
 
 > GitHub does not play raw repo-hosted video files inline. Clicking a link above downloads the file or opens it in the browser's own player.
 
